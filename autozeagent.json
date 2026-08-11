@@ -1,0 +1,26 @@
+{
+    "version": "0.1.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/yyZe0122/AutoZeAgent/releases/download/v0.1.2/autozeagent_0.1.2_windows_amd64.zip",
+            "bin": [
+                "autozeagent.exe",
+                "aze.exe",
+                "autozeagentd.exe"
+            ],
+            "hash": "d40e47225061e6ce683af6e59e3f5a106464022124e746b60bf4528943f2249c"
+        },
+        "arm64": {
+            "url": "https://github.com/yyZe0122/AutoZeAgent/releases/download/v0.1.2/autozeagent_0.1.2_windows_arm64.zip",
+            "bin": [
+                "autozeagent.exe",
+                "aze.exe",
+                "autozeagentd.exe"
+            ],
+            "hash": "54be29dcd1d79eeae4b9f258307a46b90f71d7cd2f31c8e5fd4b5627fa521372"
+        }
+    },
+    "homepage": "https://github.com/yyZe0122/AutoZeAgent",
+    "license": "Apache-2.0",
+    "description": "Local-first, policy-controlled automation agent"
+}
