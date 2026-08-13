@@ -1,21 +1,21 @@
 {
-    "version": "0.2.5",
+    "version": "0.2.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/yyZe0122/YunmengZe-Agent/releases/download/v0.2.5/ymz_0.2.5_windows_amd64.zip",
+            "url": "https://github.com/yyZe0122/YunmengZe-Agent/releases/download/v0.2.6/ymz_0.2.6_windows_amd64.zip",
             "bin": [
                 "ymz.exe",
                 "ymzd.exe"
             ],
-            "hash": "526271e8d5d7b2a0deafbdd18376922e1fa9883c8990380808bd9e6ae7b759c8"
+            "hash": "9e5cc36f3dc664c497464b1bfd0631e9ec13fd74c89f2909a1199a98a3f7ed7a"
         },
         "arm64": {
-            "url": "https://github.com/yyZe0122/YunmengZe-Agent/releases/download/v0.2.5/ymz_0.2.5_windows_arm64.zip",
+            "url": "https://github.com/yyZe0122/YunmengZe-Agent/releases/download/v0.2.6/ymz_0.2.6_windows_arm64.zip",
             "bin": [
                 "ymz.exe",
                 "ymzd.exe"
             ],
-            "hash": "4da623a0b4579b58e75f2004ace139b9b8f83123632c5953ed5b2c6b37bbf309"
+            "hash": "c95ad0e2b4f9189485ad23879a7e0ed6f2a4e43dba9431a7f74e6511f03b32ce"
         }
     },
     "homepage": "https://github.com/yyZe0122/YunmengZe-Agent",
