@@ -7,7 +7,7 @@
                 "ymz.exe",
                 "ymzd.exe"
             ],
-            "hash": "9e5cc36f3dc664c497464b1bfd0631e9ec13fd74c89f2909a1199a98a3f7ed7a"
+            "hash": "3b68c6528b340697047f587ad72004e765fee2ed884f231bdff779229f7bd17f"
         },
         "arm64": {
             "url": "https://github.com/yyZe0122/YunmengZe-Agent/releases/download/v0.2.6/ymz_0.2.6_windows_arm64.zip",
@@ -15,7 +15,7 @@
                 "ymz.exe",
                 "ymzd.exe"
             ],
-            "hash": "c95ad0e2b4f9189485ad23879a7e0ed6f2a4e43dba9431a7f74e6511f03b32ce"
+            "hash": "8add9e5ab5113c87d329ff502df5c0c9a18fe2f47c113b33daae3b090ca4dd5c"
         }
     },
     "homepage": "https://github.com/yyZe0122/YunmengZe-Agent",
